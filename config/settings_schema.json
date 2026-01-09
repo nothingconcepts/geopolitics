@@ -1,0 +1,27 @@
+
+[
+  {
+    "name": "Theme information",
+    "theme_name": "Geopolitics Unit",
+    "theme_version": "1.0.0",
+    "theme_author": "AL JOUMHOURIA",
+    "theme_documentation_url": "https://www.aljoumhouria.com",
+    "theme_support_url": "https://www.aljoumhouria.com"
+  },
+  {
+    "name": "General Settings",
+    "settings": [
+      {
+        "type": "image_picker",
+        "id": "logo",
+        "label": "Logo image"
+      },
+      {
+        "type": "color",
+        "id": "primary_color",
+        "label": "Primary Brand Color",
+        "default": "#8e1a1a"
+      }
+    ]
+  }
+]
