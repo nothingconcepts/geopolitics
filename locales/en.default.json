@@ -1,0 +1,30 @@
+
+{
+  "general": {
+    "branding": {
+      "name": "GEOPOLITICS",
+      "tagline": "Global Intelligence Database",
+      "secrets": "Secrets"
+    },
+    "language": {
+      "switch": "عربي"
+    },
+    "status": {
+      "operational": "ALL SYSTEMS OPERATIONAL"
+    },
+    "ai": {
+      "title": "Intelligence Synthesizer",
+      "desc": "Real-time vector analysis powered by Gemini 3 Pro.",
+      "placeholder": "e.g. 'Levant Gas Security'...",
+      "btn": "Generate Intel",
+      "processing": "Processing...",
+      "output": "Encrypted Output"
+    }
+  },
+  "home": {
+    "hero": {
+      "title": "The Digital Sovereign.",
+      "tagline": "Proprietary intelligence on the shifting vectors of power."
+    }
+  }
+}
